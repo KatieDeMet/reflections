@@ -1,0 +1,41 @@
+Most of the new knowledge I have gained about the tech field is in regards to modules,
+back-end servers, and development theory. I've learned that there is a lot more to
+learn than I realized.
+
+One of the most frustrating weeks was when we first started getting into back end.
+Not only was I unfamiliar with even the syntax of a URL, but I had persistant 
+environment problems due to environment variables. The first time I spent most of the
+evening doing research and realized that I was missing my windows system 32 environment
+variables altogether. When certain issues persisted I took the time to show my mentors
+the problems and one of them was eventually able to help me fix the issues once and for all.
+
+Unfortunatley this process has taught me that I do have some bad learning habits.
+I was an 'A' student in school, so I'm used to understanding things right away.
+Trying to learn computer science has taught me that if I don't get it right away,
+I tend to become overly flustered, and when persistant, it makes learning a new and
+difficult concept a little painful. I'm having to retrain myself to appreciate the
+challenge. There were also multiple times I gave up and reached out for help only to
+figure out the problem with the next 10 minutes. I'm having to also retrain myself
+to have more initial persistance to solve an issue on my own (especially because that
+is where the real learning takes place).
+
+During specializations, I will use what I discovered about my learning style to
+remind myself that it's ok not to understand immediately, to encourage myself with
+the idea that the solution is likely just around the corner, and, when I think I've
+tried everything to go ahead and figure out a few more things to try before asking
+for help.
+
+The pair programming was both nice and frustrating at the same time. When working with
+someone else, there is constantly the opportunity to learn a new piece of code or a
+new way of solving a problem that I might not have thought of. However, the pair
+programming at Devmountain, since all assignments are turned in separate, does not
+incentivise individuals to truly work together. Unless I picked up a concept right 
+away, there were many times I wound up struggling through something alone while my
+partner is 10 steps ahead doing their own thing. There was also never a real 
+opportunity to learn to synchronize pushing and pulling in a group setting, as we
+would need to in the real world, which was equally disappointing. There were a few 
+days I had a lot of fun, but for the most part the faux pair programming at Devmountain
+felt like a waste of an opportunity.
+
+What I enjoyed the most was comraderie among fellow classmates fighting the same
+uphill battle as you. The memes, the jokes and interesting websites and ideas shared.
